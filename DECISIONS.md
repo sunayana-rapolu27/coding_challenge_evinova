@@ -76,4 +76,4 @@ test/       → Unit tests
 
 ## Summary
 
-The implementation balances correctness, clarity, and real-world DevOps practices while staying within the scope of the challenge. All optional bonus points are considered and documented for future extensibility.
+The implementation balances correctness, clarity, and real-world DevOps practices while staying within the scope of the challenge.
