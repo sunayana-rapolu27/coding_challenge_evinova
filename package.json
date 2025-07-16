@@ -1,0 +1,29 @@
+{
+  "name": "secure-bucket",
+  "version": "1.0.0",
+  "bin": {
+    "secure-bucket": "bin/app.ts"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "test": "jest",
+    "synth": "cdk synth",
+    "deploy": "cdk deploy",
+    "lint": "eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.2",
+    "@types/node": "^20.5.7",
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.4.5",
+    "aws-cdk-lib": "2.137.0",
+    "constructs": "^10.3.0"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.137.0",
+    "constructs": "^10.3.0"
+  }
+}
