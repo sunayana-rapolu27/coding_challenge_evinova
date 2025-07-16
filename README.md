@@ -31,7 +31,7 @@ This project is a coding challenge submission for a **Senior DevOps Engineer** r
 ---
 
 ## Project Structure
-
+```plaintext
 coding_challenge_evinova/
 ├── .github/
 │   └── workflows/
@@ -45,5 +45,4 @@ coding_challenge_evinova/
 ├── cdk.json
 ├── package.json
 └── README.md
-
-
+```
